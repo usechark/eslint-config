@@ -1,20 +1,38 @@
 {
   "name": "@usechark/eslint-config",
+  "private": false,
   "version": "1.0.0",
-  "description": "",
+  "description": "Configuração de eslint usada nos projetos Chark",
+  "repository": {
+    "url": "git+https://github.com/usechark/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/minozzzi/eslint/issues"
+  },
   "main": "index.js",
   "scripts": {
     "release": "standard-version",
     "commit": "git-cz"
   },
-  "keywords": [],
-  "author": "",
+  "author": "usechark",
   "license": "MIT",
   "homepage": "https://github.com/usechark/eslint-config#readme",
+  "keywords": [
+    "eslint",
+    "prettier",
+    "react",
+    "node",
+    "next",
+    "typescript"
+  ],
   "packageManager": "pnpm@8.5.0",
   "engines": {
     "node": ">=18.0.0",
     "npm": ">=9.0.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=8",
+    "typescript": ">=4"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^6.21.0",
