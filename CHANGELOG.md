@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/usechark/eslint-config/compare/v1.2.0...v1.3.0) (2024-03-16)
+
+
+### Features
+
+* add new rules ([6fb9d32](https://github.com/usechark/eslint-config/commit/6fb9d32a53fd70c18ed99138340978c9f2fccb2f))
+
 ## [1.2.0](https://github.com/usechark/eslint-config/compare/v1.1.0...v1.2.0) (2024-03-16)
 
 
