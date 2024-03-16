@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/usechark/eslint-config/compare/v1.1.0...v1.2.0) (2024-03-16)
+
+
+### Features
+
+* add new typescript lint rules for node config ([875112f](https://github.com/usechark/eslint-config/commit/875112f40d602a7dc9448e2497341a162fe3295b))
+
 ## 1.1.0 (2024-03-16)
 
 
