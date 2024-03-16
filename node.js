@@ -24,6 +24,9 @@ module.exports = {
       },
     ],
 
+    "no-undef": "off",
+		"no-shadow": "off",
+		"no-restricted-syntax": "off",
     "no-empty": [
       "error",
       {
