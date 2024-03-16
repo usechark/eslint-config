@@ -3,7 +3,7 @@ name: Publish Configurations on Release
 on:
   push:
     branches:
-      - any-branch # Change this to main when its already
+      - main
 
 permissions:
   contents: write
