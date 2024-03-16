@@ -23,6 +23,7 @@ module.exports = {
         printWidth: 120,
       },
     ],
+
     "no-empty": [
       "error",
       {
@@ -43,6 +44,7 @@ module.exports = {
       },
     ],
     "max-len": "off",
+
     "import/extensions": [
       "error",
       "ignorePackages",
@@ -71,6 +73,11 @@ module.exports = {
         "newlines-between": "always",
       },
     ],
+    "import/prefer-default-export": "off",
+		"import/no-unresolved": "off",
+
+		"@typescript-eslint/no-unused-vars": "error",
+		"@typescript-eslint/no-shadow": "error",
     "@typescript-eslint/naming-convention": [
       "error",
       {
