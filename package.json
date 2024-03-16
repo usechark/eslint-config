@@ -1,7 +1,7 @@
 {
   "name": "@usechark/eslint-config",
   "private": false,
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Configuração de eslint usada nos projetos Chark",
   "repository": {
     "url": "git+https://github.com/usechark/eslint-config.git"
