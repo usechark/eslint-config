@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.3](https://github.com/usechark/eslint-config/compare/v1.4.2...v1.4.3) (2024-03-19)
+
+
+### Bug Fixes
+
+* set latest version in nvmrc ([a2ad0d1](https://github.com/usechark/eslint-config/commit/a2ad0d14642e71e01d0fa256d8449cd2a0be6778))
+
 ### [1.4.2](https://github.com/usechark/eslint-config/compare/v1.4.1...v1.4.2) (2024-03-16)
 
 ### [1.4.1](https://github.com/usechark/eslint-config/compare/v1.4.0...v1.4.1) (2024-03-16)
