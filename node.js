@@ -26,6 +26,7 @@ module.exports = {
     ],
 
     "class-methods-use-this": "off",
+    "consistent-return": "off",
 
     "no-undef": "off",
 		"no-shadow": "off",
