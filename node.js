@@ -25,6 +25,8 @@ module.exports = {
       },
     ],
 
+    "class-methods-use-this": "off",
+
     "no-undef": "off",
 		"no-shadow": "off",
 		"no-restricted-syntax": "off",
