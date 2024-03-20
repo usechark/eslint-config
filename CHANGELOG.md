@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/usechark/eslint-config/compare/v1.4.3...v1.5.0) (2024-03-20)
+
+
+### Features
+
+* add new class methods rule ([c5da99d](https://github.com/usechark/eslint-config/commit/c5da99d275d263fa6498d439560a254e100275f6))
+
 ### [1.4.3](https://github.com/usechark/eslint-config/compare/v1.4.2...v1.4.3) (2024-03-19)
 
 
